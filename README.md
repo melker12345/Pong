@@ -1,1 +1,3 @@
-# Pong
+# Pong Ett gammalt traditionelt spel.
+
+Skaped med python modulen turtle.
